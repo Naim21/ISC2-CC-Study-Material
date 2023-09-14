@@ -1,8 +1,8 @@
-# (ISC)2  Certified in Cybersecurity
+# (ISC)²  Certified in Cybersecurity
 
 ## Introduction
 
-The content in this repo is based on the self-paced course called Certified in Cybersecurity from (ISC)2, which is a preparation for (ISC)2 Certified in Cybersecurity.
+The content in this repo is based on the self-paced course called Certified in Cybersecurity from (ISC)², which is a preparation for (ISC)² Certified in Cybersecurity.
 
 In this entry-level cybersecurity certification, the domains included are: Security Principles, Business Continuity, Disaster Recovery & Incident Response Concepts, Access Controls Concepts, Network Security and Security Operations.
 
