@@ -56,4 +56,4 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 3. **Flashcards**
   > https://github.com/Naim21/ISC2-CC-Study-Material/blob/main/flashcards.md
 4. **Practice Quiz (10 questions)**
-  > https://github.com/Naim21/ISC2-CC-Study-Material/blob/main/Quiz.md
+  > https://github.com/Naim21/ISC2-CC-Study-Material/blob/main/Practice%20Quiz%20(10%20questions).md
