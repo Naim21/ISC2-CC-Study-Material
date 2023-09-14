@@ -1,5 +1,3 @@
-# L5 Security Operations
-
 ## Module 1: Understand Data Security
 
 Domain D5.0, D5.1.1, D5.1.2, D5.1.3

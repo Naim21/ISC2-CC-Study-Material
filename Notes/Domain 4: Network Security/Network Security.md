@@ -1,5 +1,3 @@
-# L4 Network Security
-
 ## Module 1: Understand Computer Networking
 
 Domain D4.1.1, D4.1.2

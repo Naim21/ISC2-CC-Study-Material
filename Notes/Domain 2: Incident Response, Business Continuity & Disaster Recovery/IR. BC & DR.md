@@ -1,5 +1,3 @@
-# L2 Incident Response, Business Continuity and Disaster Recovery Concepts
-
 ## Introduction
 
 When we're talking about IR, BC and DR, we're focus on availability, which is accomplished through those concepts.

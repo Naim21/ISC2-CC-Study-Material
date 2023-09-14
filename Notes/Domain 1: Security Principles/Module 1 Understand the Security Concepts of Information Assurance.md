@@ -1,5 +1,3 @@
-# L1: Security Principles
-
 ## Module 1 Understand the Security Concepts of Information Assurance
 
 Domain D1.1.1, D1.1.2, D1.1.3, D1.1.4, D1.1.5, D1.1.6
