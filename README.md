@@ -50,10 +50,10 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 ## Files
 
 1. **Important PDFs**
-  > https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/Important%20PDFs
+  > https://github.com/Naim21/ISC2-CC-Study-Material/tree/main/Important%20PDFs
 2. **Notes**
-  > https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/Notes
-3. **Flash Card**
-  > [https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Flash%20Card.md](https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/flashcard.md)
-4. **Quiz**
-  > https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Quiz.md
+  > https://github.com/Naim21/ISC2-CC-Study-Material/tree/main/Notes
+3. **Flashcards**
+  > https://github.com/Naim21/ISC2-CC-Study-Material/blob/main/flashcards.md
+4. **Practice Quiz (10 questions)**
+  > https://github.com/Naim21/ISC2-CC-Study-Material/blob/main/Quiz.md
